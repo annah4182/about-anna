@@ -1,21 +1,21 @@
 # **Anna Huang**  
-### Student  
+#### Student  
 _**High School of Telecommunications Arts and Technology**_
 #### annah4182@hstat.org 
 
-Some facts about me: 
-* I'm 16 years old 
-* I live in Brooklyn 
-* I'm a junior  
+Some facts about me:
+* I'm 16 years old
+* I live in Brooklyn
+* I'm a junior
 * I'm an Aquarius
 
-Schedule
+**_Schedule_**
 
-1. Spanish
-2. English
-3. SEP
-4. US History
-5. AP Calculus
-6. Lunch
-7. AP Chemistry
-8. AP Chemistry or Gym
+_1. Spanish_    
+_2. English_  
+_3. SEP_  
+_4. US History_  
+_5. AP Calculus_  
+_6. Lunch_  
+_7. AP Chemistry_  
+_8. AP Chemistry or Gym_  

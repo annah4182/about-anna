@@ -1,9 +1,9 @@
-Anna Huang
-Student
-High School of Telecommunications Arts and Technology
-annah4182@hstat.org
+Anna Huang   
+Student  
+High School of Telecommunications Arts and Technology  
+annah4182@hstat.org  
 
-Anna Huang, born in 2003, grew up in Brooklyn, NY. She is currently now a junior at HSTAT and taking SEP as one of her classes. She is an Aquarius. She's interested in horoscopes and zodiac signs, to which she believes that most of the part is true.
+Hi! My name is Anna. I'm 16 years old and I live in Brooklyn. I'm currently a junior at HSTAT and I take SEP as one of my classes. I'm an Aquarius. I'm interested in horoscopes and zodiac signs, to which I believe that most of part of what they say is true.
 
 Schedule
 

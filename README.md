@@ -12,11 +12,11 @@ Some facts about me:
 
 **_Schedule_**
 
-_1. Spanish_
-_2. English_
-_3. SEP_
-_4. US History_
-_5. AP Calculus_
-_6. Lunch_
-_7. AP Chemistry_
-_8. AP Chemistry or Gym_
+_1. Spanish_  
+_2. English_  
+_3. SEP_  
+_4. US History_  
+_5. AP Calculus_  
+_6. Lunch_  
+_7. AP Chemistry_  
+_8. AP Chemistry or Gym_  

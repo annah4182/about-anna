@@ -20,3 +20,5 @@ _5. AP Calculus_
 _6. Lunch_  
 _7. AP Chemistry_  
 _8. AP Chemistry or Gym_  
+  
+reviewed by Augustus
